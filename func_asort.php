@@ -15,8 +15,8 @@
         $time_futebol[7] = 'Fortaleza';
         $time_futebol[8] = 'Campinense';
                    
-   asort($time_fotebol);
+   asort($time_futebol);
    
-   print_r($time_fotebol);
+   print_r($time_futebol);
    
 ?> 
