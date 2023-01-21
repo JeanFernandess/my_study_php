@@ -1,3 +1,3 @@
 # my_study_php
 
-Um exemplo simples do operador heredoc.
+Meu estudo e testes na linguagem php.
