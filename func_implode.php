@@ -17,6 +17,10 @@
      $array_3 = ["3 ", " (4 + 7)"];
      
      var_dump(implode("*", $array_3));
+
+     $array_4 = ["Jean", "Programador"];
+
+     var_dump(implode("-", $array_4);
      
      
 ?> 
