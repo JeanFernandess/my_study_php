@@ -7,7 +7,8 @@
 echo(sqrt(64) . "<br>");
 echo(sqrt(0) . "<br>");
 echo(sqrt(100) . "<br>");
-echo(sqrt(9));
+echo(sqrt(9). "<br>");
+echo(sqrt(81));
 
 
 ?>
