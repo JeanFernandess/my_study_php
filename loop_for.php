@@ -7,5 +7,6 @@
      */
 for ($x = 0; $x <= 100; $x+=10) {
   echo "Um programador deve estudar $x horas de estudo por dia! <br>";
+  echo "ATENÇÃO, $x HORAS NÃO E O RECOMENDADO!!";
 }
 ?>  
