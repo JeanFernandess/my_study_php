@@ -17,6 +17,7 @@
    $signos[] = 'Libra';
    $signos[] = 'Virgem';
    $signos[] = 'Capricornio';
+   $signos[] = 'Peixes';
 
    
    foreach($signos as $signo)
