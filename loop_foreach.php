@@ -4,7 +4,7 @@
       usando a clausula AS.
      */
        
-   $moto = array('honda', 'yamaha', 'suzuky', 'bmw');
+   $moto = array('honda', 'yamaha', 'suzuky', 'bmw', 'Suzuki');
    
    foreach($moto as $marca){
      print "$marca é a melhor do mundo!<br/> ";
