@@ -2,7 +2,7 @@
 
      //Exemplo simples de um array linear e o foreach fazendo interações com esse array junto com if, elseif, else.
 
-     $felinos = array("Tigre", "Leão", "Onça", "Gato do mato", "Leopardo", "Puma", "Jaguar");
+     $felinos = array("Tigre", "Leão", "Onça", "Gato do mato", "Leopardo", "Puma", "Jaguar", "Jaguátirica");
      
      foreach($felinos as $felino){
          if($felino == "Leão"){
