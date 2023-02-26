@@ -16,7 +16,8 @@
                      'Planeta_2' => 'Jupiter',
                      'Planeta_3' => 'Terra',
                      'Planeta_4' => 'Urano',
-                     'Planeta_5' => 'Saturno');
+                     'Planeta_5' => 'Saturno',
+                     'Planeta_6  => 'Venus');
      
     
      
