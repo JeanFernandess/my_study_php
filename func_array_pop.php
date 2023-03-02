@@ -7,6 +7,7 @@
    array_pop($cores);
    array_pop($cores);
    array_pop($cores);
+   array_pop($cores);
    
    var_dump($cores);
 
