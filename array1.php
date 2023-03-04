@@ -5,14 +5,14 @@
    
    foreach($endereco as $dados_endereco)
    {
-     echo $dados_endereco;
+     echo $dados_endereco. "<br>";
    }
    
    echo "<br>";
    
    //Exemplo 2 de um array linear
-   $signos[] = "aries<br>";
-   $signos[] = "touro<br>";
+   $signos[] = "aries";
+   $signos[] = "touro";
    $signos[] = 'gemeos';
    $signos[] = 'Libra';
    $signos[] = 'Virgem';
@@ -24,7 +24,7 @@
    
    foreach($signos as $signo)
    {
-     echo $signo;
+     echo $signo. "<br>";
    }
 
  ?>
