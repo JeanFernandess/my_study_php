@@ -5,6 +5,7 @@
    //Essa função remove um item no inicio do array
    array_shift($stack);
    array_shift($stack);
+   array_shift($stack);
    
    var_dump($stack);
 
