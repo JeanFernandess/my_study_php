@@ -16,7 +16,7 @@
       
       echo 'Parabens!Voce passou de ano!<br>';
       echo "Sua média é: $media";
-      echo 'SE DEDEDIQUE MAIS NA PRÓXIMA VEZ!';
+      echo 'ESTUDE MAIS NA PRÓXIMA VEZ!';
       }
 
  ?>
