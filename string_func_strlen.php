@@ -14,6 +14,7 @@
     else
     {
       echo 'Digite seus dados corretamente!';
+      echo 'Dogite os dados novamente!';
     }
     
     
