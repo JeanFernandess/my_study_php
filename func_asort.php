@@ -14,6 +14,8 @@
         $time_futebol[6] = 'Atletico-Mg';
         $time_futebol[7] = 'Fortaleza';
         $time_futebol[8] = 'Campinense';
+        $time_futebol[9] = 'Bahia';
+        $time_futebol[10] = 'Treze';
                    
    asort($time_futebol);
    
