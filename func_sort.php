@@ -18,7 +18,8 @@
                      'Estado_4' => 'Maranhão',
                      'Estado_5' => 'Alagoas',
                      'Estado_6' => 'Rio de Janeiro',
-                     'Estado_7  => 'Amazonas');   
+                     'Estado_7  => 'Amazonas',
+                     'Estado_8  => 'Minas Gerais');   
 
      
     
