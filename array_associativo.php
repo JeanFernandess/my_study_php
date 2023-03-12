@@ -8,6 +8,7 @@
      $joao['Idade'] = '33';
      $joao['Cor'] = 'Negra';
      $joao['Naturalidade'] = 'Casa da mãe Joana';
+     $joao['Escolaridade'] = 'Terceiro grau';
      
      foreach($joao as $dados)
      {
