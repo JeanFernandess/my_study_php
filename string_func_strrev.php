@@ -1,5 +1,5 @@
 <?php
-   $carro_marca = array('Mitsubishi', 'Volkswagen', 'Peugeot', 'Troller');
+   $carro_marca = array('Mitsubishi', 'Volkswagen', 'Peugeot', 'Troller', 'Fiat');
    
    for($i = 0; $i < 3; $i++)
    {
