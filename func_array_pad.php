@@ -8,7 +8,7 @@
        
      $carros_cor = array('Amarelo', 'Vermelho', 'Azul', 'Verde');
      
-     $carros_cor = array_pad($carros_cor, 5, 'Branco');
+     $carros_cor = array_pad($carros_cor, 7, 'Branco');
      
      var_dump($carros_cor);
 
