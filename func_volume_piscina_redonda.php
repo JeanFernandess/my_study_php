@@ -8,7 +8,7 @@
      
      $vol_piscina = $diametro * $diametro * $profundidade;
      
-     echo 'O volume da piscina é:' . $vol_piscina * 0.8 * 1000 . ' mil litros de agua';
+     echo 'O volume da piscina em litros é:' . $vol_piscina * 0.8 * 1000 . ' mil litros de agua';
       
      }
      
