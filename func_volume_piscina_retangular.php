@@ -8,7 +8,7 @@
     function piscina_retangular($largura, $profundidade, $comprimento){
     
     $vol_agua = $largura * $comprimento * $profundidade;
-    echo 'A quantidade de agua na piscina é : ' . $vol_agua * 1000 . ' mil litros';
+    echo 'A quantidade do volume em litros é : ' . $vol_agua * 1000 . ' mil litros';
     }
     
     piscina_retangular(5.0, 1.20, 15.0)
