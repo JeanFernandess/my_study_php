@@ -5,7 +5,7 @@
     function piscina_oval($comprimento, $largura, $profundidade){
     
     $vol_piscina = $comprimento * $largura * $profundidade;
-    echo 'O volume em litros e :' . $vol_piscina * 1000 * 0.8;
+    echo 'O volume da piscina em litros e :' . $vol_piscina * 1000 * 0.8;
     }
     
     piscina_oval(10, 3, 2);
