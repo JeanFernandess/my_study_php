@@ -9,4 +9,5 @@
     }
     
     piscina_oval(10, 3, 2);
+    piscina_oval(12.0, 5.0, 3.0);
 ?>  
