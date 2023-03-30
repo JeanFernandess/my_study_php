@@ -1,6 +1,9 @@
 <?php
 
-    // Essa função mostra o volume de agua numa piscina irregular.
+    /* Essa função mostra o volume de agua numa piscina irregular.
+       A função recebe até 6 argumentos e mostra 
+       o valor do volume em litros.
+    */
     
     function piscina_irregular($comprimento1, $comprimento2, $largura1, $largura2, $profundidade1, $profundidade2){
     
