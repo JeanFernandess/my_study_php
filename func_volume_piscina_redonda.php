@@ -13,5 +13,6 @@
      }
      
      piscina_redonda(6.0, 1.5);
+     piscina_redonda(10.0, 8.0);
 
 ?> 
