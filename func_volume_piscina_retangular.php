@@ -11,5 +11,6 @@
     echo 'A quantidade do volume em litros é : ' . $vol_agua * 1000 . ' mil litros';
     }
     
-    piscina_retangular(5.0, 1.20, 15.0)
+    piscina_retangular(5.0, 1.20, 15.0);
+    piscina_retangular(7.0, 3.5, 20.0);
 ?>
