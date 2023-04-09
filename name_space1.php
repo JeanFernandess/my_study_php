@@ -1,6 +1,8 @@
 <?php
-     /* Namespa e usado pra encapsular funções,
-        Clases e constantes.
+     /* Namespace e usado pra encapsular funções,
+        Clases e constantes colocando rótulos para
+        melhorar a legibilidade do código e evitar
+        conflitos entre nomes de Clases e funções.
         
         Abaixo esta um exemplo bem simples.
        */
