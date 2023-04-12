@@ -1,6 +1,7 @@
 <?php
       /* A função calculadora recebe 3 argumentos, um operador e
-         dois operandos.
+         dois operandos e mostra o resultado da
+         operação na tela.
       */
       
       function calculadora($operando_1, $operador, $operando_2){
