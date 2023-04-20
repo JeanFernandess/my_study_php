@@ -4,7 +4,7 @@
     
    $sabor_cliente = 'Chocolate';
 
-   $sabor_sorvete = ['Chocolate', 'Morango', 'Flocos', 'Tutti-Frutti', 'Leite Condensado', 'Doce de Leite'];
+   $sabor_sorvete = ['Chocolate', 'Morango', 'Flocos', 'Tutti-Frutti', 'Leite Condensado', 'Doce de Leite', 'Abacate'];
    
    foreach($sabor_sorvete as $sabor){
      if($sabor == $sabor_cliente){
