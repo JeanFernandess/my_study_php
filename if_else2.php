@@ -1,6 +1,6 @@
 <?php
      
-     //Praticas com if else
+     //Praticas e estudos com if else
 
     $semana_trabalho = ['Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sabado', 'Domingo'];
     
