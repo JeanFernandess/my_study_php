@@ -3,9 +3,11 @@
      
     define("MEU_SALARIO", "1.200");
     define("MEU_ALUGUEL", "200");
+    define("MEU_CONSUMO", "700");
     
     echo MEU_SALARIO. "<br>";
     echo MEU_ALUGUEL. "<br>";
+    echo MEU_CONSUMO. "<br>";
     echo "<br>";
     
     if(MEU_SALARIO < 1000){
