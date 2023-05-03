@@ -7,6 +7,7 @@
  $motos ['Honda']['Adicional'] = 'Freio a disco';
  $motos ['Honda']['Cor'] = 'Vermelha';
  $motos ['Honda']['Modelo'] = 'Titan cg160';
+ $motos ['Honda']['Preco'] = '12.500';
 
  
  //Interação em uma matriz
