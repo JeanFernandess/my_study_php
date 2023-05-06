@@ -13,7 +13,7 @@
        $resul = ($num_impOrPar % 2 == 0) ? 'Par' : 'Impar';
        
        
-       if($resul == $impOrPar){
+       if($resul === $impOrPar){
          
          echo 'Voce ganhou! <br>';
          echo 'Sua opção foi: '.$impOrPar. "<br>";
@@ -23,7 +23,7 @@
          echo 'Numero escolhido pelo programa :'.$jogador_num. "<br>";
         
          
-       }elseif($resul == $jogador_impOrPar){
+       }else{
          
          echo 'O programa venceu!'."<br>";
          echo 'Opção do programa: '.$jogador_impOrPar. "<br>";
@@ -31,10 +31,6 @@
          echo "<br>";
          echo 'Sua opção foi: '.$impOrPar. "<br>";
          echo 'Seu numero escolhido : '.$numero. "<br>";
-         
-       }else{
-         
-         echo "TENTE DE NOVO!! <br>";
          
        }
        
