@@ -7,12 +7,19 @@
 
      function imparOuPar($numero,$impOrPar){
        
+       //Número do oponente
        $jogador_num = rand(0, 52);
+       
+       //Opção do oponente: ímpar ou par?
        $jogador_impOrPar = (rand(0, 52) % 2 == 0) ? 'Par' : 'Impar';
+
+       //Soma da escolha do oponente mais o número do jogador.
        $num_impOrPar = $numero + $jogador_num;
+
+       //Quem ganhou?Jogador ou Oponente?
        $resul = ($num_impOrPar % 2 == 0) ? 'Par' : 'Impar';
        
-       
+       //Se o jogador ganhou, se não, vitória do oponente.
        if($resul === $impOrPar){
          
          echo 'Voce ganhou! <br>';
@@ -36,6 +43,7 @@
        
      }
      
+     //Chamada da função ímpar ou par.E necessário 2 argumentos.
      imparOuPar(6,'Par');
      
 
