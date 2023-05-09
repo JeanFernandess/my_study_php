@@ -45,6 +45,7 @@
      
      //Chamada da função ímpar ou par.E necessário 2 argumentos.
      imparOuPar(6,'Par');
+     imparOuPar(5, 'Impar');
      
 
  ?>
