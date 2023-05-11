@@ -7,7 +7,9 @@
     */
     
     // Alguns exemplos de string com aspas simples.
-    
+    $fruta = 'Laranja';
+    echo "$fruta <br>";
+
     $peixe = 'Garoupa';
     echo "$peixe <br>";
     
