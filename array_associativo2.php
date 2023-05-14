@@ -9,6 +9,7 @@
    $jean_dados['Profissão'] = 'Desenvolvedor back-end';
    $jean_dados['Formação'] = 'Analise de Sistemas';
    $jean_dados['Altura'] = '1.82';
+   $jean_dados['Peso'] = '115.0';
    
    foreach($jean_dados as $key => $dados){
      
