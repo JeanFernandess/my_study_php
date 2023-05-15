@@ -20,6 +20,7 @@
    $signos[] = 'Peixes';
    $signos[] = 'Aquario';
    $signos[] = 'Leao';
+   $signos[] = 'Escorpiao';
 
    
    foreach($signos as $signo)
