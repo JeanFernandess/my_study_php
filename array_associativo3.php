@@ -19,8 +19,11 @@
                           'CarteiraEndereco03' => 'sgshsvdgshsjsgsj');
                           
     echo 'O nome da carteira 01 e: ' . $carteira_bitcoin['CarteiraBitcoin01']. "<br>";
-    echo 'O saldo da carteira 01 é: '. $carteira_bitcoin['CarteiraSaldo01']. "<br>";
+    echo 'O saldo da carteira 01 é: ' . $carteira_bitcoin['CarteiraSaldo01']. "<br>";
     echo "<br>";
     echo 'O nome da carteira 02 e:' . $carteira_etherium['CarteiraEtherium02']. "<br>";
     echo 'O saldo da carteira 02 e:' . $carteira_etherium['CarteiraSaldo02'] . "<br>";
+    echo "<br>";
+    echo 'O nome da carteira 03 e:' . $carteira_xrp['CarteiraXrp03']. "<br";
+    echo 'O saldo da carteira 03 e:' . $carteira_xrp['CarteiraSaldo03']. "<br>";
  ?>
