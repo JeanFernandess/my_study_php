@@ -10,7 +10,8 @@ $backend_php = (object) array('Framework' => 'Laravel',
 
                               'Banco de dados' => 'Mysql',
 
-                              'Servidor' => 'Apache');
+                              'Servidor' => 'Apache',
+                              'Banco nao relacional' => 'MariaDb');
 
                               
 
