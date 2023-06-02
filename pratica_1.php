@@ -5,7 +5,7 @@
       
       
  
-    $cryptos = array('Bitcoin', 'Etherium', 'Xrp', 'Xlm', 'Shibainu');
+    $cryptos = array('Bitcoin', 'Etherium', 'Xrp', 'Xlm', 'Shibainu', 'Hbar');
     
     foreach($cryptos as $crypto){
         if($crypto == 'Bitcoin'){
