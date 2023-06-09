@@ -2,7 +2,7 @@
 
    //Pratica de arrays no php
 
-$times = array('Flamengo', 'Gremio', 'Sao paulo', 'Fortaleza');
+$times = array('Flamengo', 'Gremio', 'Sao paulo', 'Fortaleza', 'Fluminense');
 
  foreach($times as $time){
   if($time == 'Flamengo'){
